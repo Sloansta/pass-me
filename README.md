@@ -17,3 +17,7 @@ Some thoughts behind this project
 * Getting myself to ACTUALLY use multiple passwords to keep my data safe. 
 * Finally making something that I will use for my everyday computing and authentication needs.
 
+
+# Concerns 
+* At some point, if it scales, we might need to implement a backend and DB. We can't wipe out peoples passwords if they clear their browser cache. 
+* Never worked on a fullstack project with Electron, could be fun to actually implement the backend :D 
